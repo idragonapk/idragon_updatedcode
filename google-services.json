@@ -31,35 +31,11 @@
           }
         },
         {
-          "client_id": "192323950143-64a4nirakde7ot855e8qcmml53v3vls8.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.idragonpro.andmagnus",
-            "certificate_hash": "c6d9a194a8e3ec25921bb1ab885c3dfe3bac3e68"
-          }
-        },
-        {
-          "client_id": "192323950143-7naijnjokoeicuur89knhfitek0jdj2k.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.idragonpro.andmagnus",
-            "certificate_hash": "e79641a0e2d6c897c31b7f12c75f63ce4f808dcf"
-          }
-        },
-        {
           "client_id": "192323950143-9stpugumc2p5mh1brgv2cmkpq8jp3iue.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.idragonpro.andmagnus",
             "certificate_hash": "29cbb0c5d3343153a2f02bba35960f43a2e52005"
-          }
-        },
-        {
-          "client_id": "192323950143-d28es3jj3vkhevedcisene7j5hkuh8q4.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.idragonpro.andmagnus",
-            "certificate_hash": "6a16930b7218a707ee95ede2ed8976ce8fe17004"
           }
         },
         {
